@@ -146,7 +146,15 @@
   </a>
 </p>
 
-     
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif"
+    width="270"
+    height="270"
+    alt="Coding animation"
+  />
+</p>
+
   </td>
   </tr>
 
